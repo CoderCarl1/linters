@@ -8,5 +8,5 @@ cp -vip /home/carl/projects/useful/linters/react/.eslintignore $_mydir
 
 echo "linter files copied"
 
-yarn add -D eslint prettier eslint-plugin-prettier eslint-config-prettier eslint-plugin-node eslint-config-node
-npx install-peerdeps --dev eslint-config-airbnb
+yarn add -D prettier eslint-plugin-prettier eslint-config-prettier eslint-plugin-node eslint-config-node
+
