@@ -8,5 +8,5 @@ cp -vip /home/carl/projects/useful/linters/react/.eslintignore $_mydir
 
 echo "linter files copied"
 
-yarn add -D prettier eslint-plugin-prettier eslint-config-prettier eslint-plugin-node eslint-config-node
+yarn add -D prettier eslint-plugin-prettier eslint-config-prettier @testing-library/dom typescript @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-plugin-jest
 
