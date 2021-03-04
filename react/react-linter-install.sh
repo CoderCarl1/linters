@@ -5,6 +5,7 @@ _mydir="`pwd`"
 cp -vip /home/carl/projects/useful/linters/react/.eslintrc.json $_mydir
 cp -vip /home/carl/projects/useful/linters/react/.prettierrc.json $_mydir
 cp -vip /home/carl/projects/useful/linters/react/.eslintignore $_mydir
+cp -vip /home/carl/projects/useful/linters/react/.vscode $_mydir
 
 echo "linter files copied"
 
